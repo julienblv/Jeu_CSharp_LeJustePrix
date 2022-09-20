@@ -15,7 +15,7 @@ namespace Jeu_CSharp_LeJustePrix
         static int usrSaisie;
 
         static int ChiffreMystere;
-
+        //update mis dans main
         public void Update()
         {
               Console.WriteLine("*******************"); 
