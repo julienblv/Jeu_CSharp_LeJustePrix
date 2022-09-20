@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Jeu_CSharp_LeJustePrix/1.0.0": {
+        "runtime": {
+          "Jeu_CSharp_LeJustePrix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jeu_CSharp_LeJustePrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

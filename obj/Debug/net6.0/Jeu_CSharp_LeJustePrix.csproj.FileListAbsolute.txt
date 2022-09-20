@@ -1,0 +1,15 @@
+C:\Users\Julien\Desktop\Jeu_CSharp_LeJustePrix\bin\Debug\net6.0\Jeu_CSharp_LeJustePrix.exe
+C:\Users\Julien\Desktop\Jeu_CSharp_LeJustePrix\bin\Debug\net6.0\Jeu_CSharp_LeJustePrix.deps.json
+C:\Users\Julien\Desktop\Jeu_CSharp_LeJustePrix\bin\Debug\net6.0\Jeu_CSharp_LeJustePrix.runtimeconfig.json
+C:\Users\Julien\Desktop\Jeu_CSharp_LeJustePrix\bin\Debug\net6.0\Jeu_CSharp_LeJustePrix.dll
+C:\Users\Julien\Desktop\Jeu_CSharp_LeJustePrix\bin\Debug\net6.0\Jeu_CSharp_LeJustePrix.pdb
+C:\Users\Julien\Desktop\Jeu_CSharp_LeJustePrix\obj\Debug\net6.0\Jeu_CSharp_LeJustePrix.csproj.AssemblyReference.cache
+C:\Users\Julien\Desktop\Jeu_CSharp_LeJustePrix\obj\Debug\net6.0\Jeu_CSharp_LeJustePrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julien\Desktop\Jeu_CSharp_LeJustePrix\obj\Debug\net6.0\Jeu_CSharp_LeJustePrix.AssemblyInfoInputs.cache
+C:\Users\Julien\Desktop\Jeu_CSharp_LeJustePrix\obj\Debug\net6.0\Jeu_CSharp_LeJustePrix.AssemblyInfo.cs
+C:\Users\Julien\Desktop\Jeu_CSharp_LeJustePrix\obj\Debug\net6.0\Jeu_CSharp_LeJustePrix.csproj.CoreCompileInputs.cache
+C:\Users\Julien\Desktop\Jeu_CSharp_LeJustePrix\obj\Debug\net6.0\Jeu_CSharp_LeJustePrix.dll
+C:\Users\Julien\Desktop\Jeu_CSharp_LeJustePrix\obj\Debug\net6.0\refint\Jeu_CSharp_LeJustePrix.dll
+C:\Users\Julien\Desktop\Jeu_CSharp_LeJustePrix\obj\Debug\net6.0\Jeu_CSharp_LeJustePrix.pdb
+C:\Users\Julien\Desktop\Jeu_CSharp_LeJustePrix\obj\Debug\net6.0\Jeu_CSharp_LeJustePrix.genruntimeconfig.cache
+C:\Users\Julien\Desktop\Jeu_CSharp_LeJustePrix\obj\Debug\net6.0\ref\Jeu_CSharp_LeJustePrix.dll
